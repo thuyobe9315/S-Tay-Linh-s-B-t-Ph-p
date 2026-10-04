@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Linh Số Bát Pháp",
+  "description": "Cẩm nang và từ điển tra cứu năng lượng số Bát Cực Linh Số, phân tích dãy số và phương pháp chuyển hóa cải vận kết nối Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
